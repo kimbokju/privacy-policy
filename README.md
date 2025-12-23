@@ -1,4 +1,4 @@
-<html lang="ko">
+<html>
 <head>
   <meta charset="UTF-8">
   <title>개인정보처리방침</title>
